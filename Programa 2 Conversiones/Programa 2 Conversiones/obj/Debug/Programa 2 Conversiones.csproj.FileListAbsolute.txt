@@ -1,0 +1,7 @@
+C:\AprendaCSharp\Programa 2 Conversiones\Programa 2 Conversiones\bin\Debug\Programa 2 Conversiones.exe.config
+C:\AprendaCSharp\Programa 2 Conversiones\Programa 2 Conversiones\bin\Debug\Programa 2 Conversiones.exe
+C:\AprendaCSharp\Programa 2 Conversiones\Programa 2 Conversiones\bin\Debug\Programa 2 Conversiones.pdb
+C:\AprendaCSharp\Programa 2 Conversiones\Programa 2 Conversiones\obj\Debug\Programa 2 Conversiones.csprojAssemblyReference.cache
+C:\AprendaCSharp\Programa 2 Conversiones\Programa 2 Conversiones\obj\Debug\Programa 2 Conversiones.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\Programa 2 Conversiones\Programa 2 Conversiones\obj\Debug\Programa 2 Conversiones.exe
+C:\AprendaCSharp\Programa 2 Conversiones\Programa 2 Conversiones\obj\Debug\Programa 2 Conversiones.pdb

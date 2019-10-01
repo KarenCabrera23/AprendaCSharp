@@ -1,0 +1,7 @@
+C:\AprendaCSharp\Programa 9 Acumulado\Programa 9 Acumulado\bin\Debug\Programa 9 Acumulado.exe.config
+C:\AprendaCSharp\Programa 9 Acumulado\Programa 9 Acumulado\bin\Debug\Programa 9 Acumulado.exe
+C:\AprendaCSharp\Programa 9 Acumulado\Programa 9 Acumulado\bin\Debug\Programa 9 Acumulado.pdb
+C:\AprendaCSharp\Programa 9 Acumulado\Programa 9 Acumulado\obj\Debug\Programa 9 Acumulado.csprojAssemblyReference.cache
+C:\AprendaCSharp\Programa 9 Acumulado\Programa 9 Acumulado\obj\Debug\Programa 9 Acumulado.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\Programa 9 Acumulado\Programa 9 Acumulado\obj\Debug\Programa 9 Acumulado.exe
+C:\AprendaCSharp\Programa 9 Acumulado\Programa 9 Acumulado\obj\Debug\Programa 9 Acumulado.pdb

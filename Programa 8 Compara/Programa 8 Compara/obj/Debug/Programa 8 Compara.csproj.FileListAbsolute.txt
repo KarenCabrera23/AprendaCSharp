@@ -1,0 +1,7 @@
+C:\AprendaCSharp\Programa 8 Compara\Programa 8 Compara\bin\Debug\Programa 8 Compara.exe.config
+C:\AprendaCSharp\Programa 8 Compara\Programa 8 Compara\bin\Debug\Programa 8 Compara.exe
+C:\AprendaCSharp\Programa 8 Compara\Programa 8 Compara\bin\Debug\Programa 8 Compara.pdb
+C:\AprendaCSharp\Programa 8 Compara\Programa 8 Compara\obj\Debug\Programa 8 Compara.csprojAssemblyReference.cache
+C:\AprendaCSharp\Programa 8 Compara\Programa 8 Compara\obj\Debug\Programa 8 Compara.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\Programa 8 Compara\Programa 8 Compara\obj\Debug\Programa 8 Compara.exe
+C:\AprendaCSharp\Programa 8 Compara\Programa 8 Compara\obj\Debug\Programa 8 Compara.pdb

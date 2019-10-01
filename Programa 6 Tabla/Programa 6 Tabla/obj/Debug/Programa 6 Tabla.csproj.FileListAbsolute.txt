@@ -1,0 +1,7 @@
+C:\AprendaCSharp\Programa 6 Tabla\Programa 6 Tabla\bin\Debug\Programa 6 Tabla.exe.config
+C:\AprendaCSharp\Programa 6 Tabla\Programa 6 Tabla\bin\Debug\Programa 6 Tabla.exe
+C:\AprendaCSharp\Programa 6 Tabla\Programa 6 Tabla\bin\Debug\Programa 6 Tabla.pdb
+C:\AprendaCSharp\Programa 6 Tabla\Programa 6 Tabla\obj\Debug\Programa 6 Tabla.csprojAssemblyReference.cache
+C:\AprendaCSharp\Programa 6 Tabla\Programa 6 Tabla\obj\Debug\Programa 6 Tabla.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\Programa 6 Tabla\Programa 6 Tabla\obj\Debug\Programa 6 Tabla.exe
+C:\AprendaCSharp\Programa 6 Tabla\Programa 6 Tabla\obj\Debug\Programa 6 Tabla.pdb

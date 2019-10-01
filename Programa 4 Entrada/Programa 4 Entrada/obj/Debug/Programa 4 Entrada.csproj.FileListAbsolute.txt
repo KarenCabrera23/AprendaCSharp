@@ -1,0 +1,7 @@
+C:\AprendaCSharp\Programa 4 Entrada\Programa 4 Entrada\bin\Debug\Programa 4 Entrada.exe.config
+C:\AprendaCSharp\Programa 4 Entrada\Programa 4 Entrada\bin\Debug\Programa 4 Entrada.exe
+C:\AprendaCSharp\Programa 4 Entrada\Programa 4 Entrada\bin\Debug\Programa 4 Entrada.pdb
+C:\AprendaCSharp\Programa 4 Entrada\Programa 4 Entrada\obj\Debug\Programa 4 Entrada.csprojAssemblyReference.cache
+C:\AprendaCSharp\Programa 4 Entrada\Programa 4 Entrada\obj\Debug\Programa 4 Entrada.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\Programa 4 Entrada\Programa 4 Entrada\obj\Debug\Programa 4 Entrada.exe
+C:\AprendaCSharp\Programa 4 Entrada\Programa 4 Entrada\obj\Debug\Programa 4 Entrada.pdb

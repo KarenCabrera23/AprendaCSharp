@@ -1,0 +1,7 @@
+C:\AprendaCSharp\Programa 3 Aleatorio\Programa 3 Aleatorio\bin\Debug\Programa 3 Aleatorio.exe.config
+C:\AprendaCSharp\Programa 3 Aleatorio\Programa 3 Aleatorio\bin\Debug\Programa 3 Aleatorio.exe
+C:\AprendaCSharp\Programa 3 Aleatorio\Programa 3 Aleatorio\bin\Debug\Programa 3 Aleatorio.pdb
+C:\AprendaCSharp\Programa 3 Aleatorio\Programa 3 Aleatorio\obj\Debug\Programa 3 Aleatorio.csprojAssemblyReference.cache
+C:\AprendaCSharp\Programa 3 Aleatorio\Programa 3 Aleatorio\obj\Debug\Programa 3 Aleatorio.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\Programa 3 Aleatorio\Programa 3 Aleatorio\obj\Debug\Programa 3 Aleatorio.exe
+C:\AprendaCSharp\Programa 3 Aleatorio\Programa 3 Aleatorio\obj\Debug\Programa 3 Aleatorio.pdb

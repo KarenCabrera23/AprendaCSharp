@@ -1,0 +1,7 @@
+C:\AprendaCSharp\Programa 10 Multiplo\Programa 10 Multiplo\obj\Debug\Programa 10 Multiplo.csprojAssemblyReference.cache
+C:\AprendaCSharp\Programa 10 Multiplo\Programa 10 Multiplo\obj\Debug\Programa 10 Multiplo.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\Programa 10 Multiplo\Programa 10 Multiplo\bin\Debug\Programa 10 Multiplo.exe.config
+C:\AprendaCSharp\Programa 10 Multiplo\Programa 10 Multiplo\bin\Debug\Programa 10 Multiplo.exe
+C:\AprendaCSharp\Programa 10 Multiplo\Programa 10 Multiplo\bin\Debug\Programa 10 Multiplo.pdb
+C:\AprendaCSharp\Programa 10 Multiplo\Programa 10 Multiplo\obj\Debug\Programa 10 Multiplo.exe
+C:\AprendaCSharp\Programa 10 Multiplo\Programa 10 Multiplo\obj\Debug\Programa 10 Multiplo.pdb

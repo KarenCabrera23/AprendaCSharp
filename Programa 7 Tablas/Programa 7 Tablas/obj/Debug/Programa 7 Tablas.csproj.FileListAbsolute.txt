@@ -1,0 +1,7 @@
+C:\AprendaCSharp\Programa 7 Tablas\Programa 7 Tablas\bin\Debug\Programa 7 Tablas.exe.config
+C:\AprendaCSharp\Programa 7 Tablas\Programa 7 Tablas\bin\Debug\Programa 7 Tablas.exe
+C:\AprendaCSharp\Programa 7 Tablas\Programa 7 Tablas\bin\Debug\Programa 7 Tablas.pdb
+C:\AprendaCSharp\Programa 7 Tablas\Programa 7 Tablas\obj\Debug\Programa 7 Tablas.csprojAssemblyReference.cache
+C:\AprendaCSharp\Programa 7 Tablas\Programa 7 Tablas\obj\Debug\Programa 7 Tablas.csproj.CoreCompileInputs.cache
+C:\AprendaCSharp\Programa 7 Tablas\Programa 7 Tablas\obj\Debug\Programa 7 Tablas.exe
+C:\AprendaCSharp\Programa 7 Tablas\Programa 7 Tablas\obj\Debug\Programa 7 Tablas.pdb
